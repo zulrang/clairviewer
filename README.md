@@ -1,4 +1,4 @@
-# clairscanner
+# clairviewer
 
 ## Project setup
 ```
